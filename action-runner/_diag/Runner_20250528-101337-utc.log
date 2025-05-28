@@ -158,3 +158,80 @@
 [2025-05-28 10:17:05Z INFO CredentialManager] Creating type OAuth
 [2025-05-28 10:17:05Z INFO CredentialManager] Creating credential type: OAuth
 [2025-05-28 10:17:05Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file D:\ostad\Mod-2-practice\action-runner\.credentials_rsaparams
+[2025-05-28 10:17:54Z INFO MessageListener] Message '4028288572837028080' received from session 'd492e925-06a2-4ae5-80b5-946baa9217aa'.
+[2025-05-28 10:17:54Z INFO ConfigurationStore] HasCredentials()
+[2025-05-28 10:17:54Z INFO ConfigurationStore] stored True
+[2025-05-28 10:17:54Z INFO CredentialManager] GetCredentialProvider
+[2025-05-28 10:17:54Z INFO CredentialManager] Creating type OAuth
+[2025-05-28 10:17:54Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-28 10:17:54Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file D:\ostad\Mod-2-practice\action-runner\.credentials_rsaparams
+[2025-05-28 10:17:54Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file D:\ostad\Mod-2-practice\action-runner\.credentials_rsaparams
+[2025-05-28 10:17:54Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file D:\ostad\Mod-2-practice\action-runner\.credentials_rsaparams
+[2025-05-28 10:17:55Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2025-05-28 10:17:57Z INFO JobDispatcher] Job request 0 for plan 606ea1c3-7434-4513-a419-af0ca6bfadfc job f57d987a-20af-5234-8cf9-7a68aaff474c received.
+[2025-05-28 10:17:57Z INFO MessageListener] Received job status event. JobState: Busy
+[2025-05-28 10:17:57Z INFO MessageListener] _getMessagesTokenSource is already disposed.
+[2025-05-28 10:17:57Z INFO Terminal] WRITE LINE: 2025-05-28 10:17:57Z: Running job: read-file
+[2025-05-28 10:17:57Z INFO JobDispatcher] Start renew job request 0 for job f57d987a-20af-5234-8cf9-7a68aaff474c.
+[2025-05-28 10:17:58Z INFO JobDispatcher] Successfully renew job f57d987a-20af-5234-8cf9-7a68aaff474c, job is valid till 5/28/2025 10:27:58 AM
+[2025-05-28 10:17:58Z INFO HostContext] Well known directory 'Bin': 'D:\ostad\Mod-2-practice\action-runner\bin'
+[2025-05-28 10:17:58Z INFO ProcessInvokerWrapper] Starting process:
+[2025-05-28 10:17:58Z INFO ProcessInvokerWrapper]   File name: 'D:\ostad\Mod-2-practice\action-runner\bin\Runner.Worker.exe'
+[2025-05-28 10:17:58Z INFO ProcessInvokerWrapper]   Arguments: 'spawnclient 1484 1620'
+[2025-05-28 10:17:58Z INFO ProcessInvokerWrapper]   Working directory: 'D:\ostad\Mod-2-practice\action-runner\bin'
+[2025-05-28 10:17:58Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2025-05-28 10:17:58Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2025-05-28 10:17:58Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'True'
+[2025-05-28 10:17:58Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2025-05-28 10:17:58Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2025-05-28 10:17:58Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2025-05-28 10:17:58Z INFO ProcessInvokerWrapper]   High priority process: 'True'
+[2025-05-28 10:17:58Z INFO ProcessInvokerWrapper] Process started with process id 25168, waiting for process exit.
+[2025-05-28 10:17:58Z INFO JobDispatcher] Send job request message to worker for job f57d987a-20af-5234-8cf9-7a68aaff474c.
+[2025-05-28 10:17:58Z INFO ProcessChannel] Sending message of length 18323, with hash 'b32f4c351b1fab47e0fed007bc5f053adb735c1b708ac44c0a431c2c7fd2fe42'
+[2025-05-28 10:17:58Z INFO JobNotification] Entering JobStarted Notification
+[2025-05-28 10:17:58Z INFO JobNotification] Entering StartMonitor
+[2025-05-28 10:17:58Z INFO ConfigurationStore] HasCredentials()
+[2025-05-28 10:17:58Z INFO ConfigurationStore] stored True
+[2025-05-28 10:17:58Z INFO CredentialManager] GetCredentialProvider
+[2025-05-28 10:17:58Z INFO CredentialManager] Creating type OAuth
+[2025-05-28 10:17:58Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-28 10:17:58Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file D:\ostad\Mod-2-practice\action-runner\.credentials_rsaparams
+[2025-05-28 10:18:49Z INFO ConfigurationStore] HasCredentials()
+[2025-05-28 10:18:49Z INFO ConfigurationStore] stored True
+[2025-05-28 10:18:49Z INFO CredentialManager] GetCredentialProvider
+[2025-05-28 10:18:49Z INFO CredentialManager] Creating type OAuth
+[2025-05-28 10:18:49Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-28 10:18:49Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file D:\ostad\Mod-2-practice\action-runner\.credentials_rsaparams
+[2025-05-28 10:18:58Z INFO JobDispatcher] Successfully renew job f57d987a-20af-5234-8cf9-7a68aaff474c, job is valid till 5/28/2025 10:28:58 AM
+[2025-05-28 10:19:40Z INFO ConfigurationStore] HasCredentials()
+[2025-05-28 10:19:40Z INFO ConfigurationStore] stored True
+[2025-05-28 10:19:40Z INFO CredentialManager] GetCredentialProvider
+[2025-05-28 10:19:40Z INFO CredentialManager] Creating type OAuth
+[2025-05-28 10:19:40Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-28 10:19:40Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file D:\ostad\Mod-2-practice\action-runner\.credentials_rsaparams
+[2025-05-28 10:19:58Z INFO JobDispatcher] Successfully renew job f57d987a-20af-5234-8cf9-7a68aaff474c, job is valid till 5/28/2025 10:29:58 AM
+[2025-05-28 10:20:30Z INFO ConfigurationStore] HasCredentials()
+[2025-05-28 10:20:30Z INFO ConfigurationStore] stored True
+[2025-05-28 10:20:30Z INFO CredentialManager] GetCredentialProvider
+[2025-05-28 10:20:30Z INFO CredentialManager] Creating type OAuth
+[2025-05-28 10:20:30Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-28 10:20:30Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file D:\ostad\Mod-2-practice\action-runner\.credentials_rsaparams
+[2025-05-28 10:20:59Z INFO JobDispatcher] Successfully renew job f57d987a-20af-5234-8cf9-7a68aaff474c, job is valid till 5/28/2025 10:30:59 AM
+[2025-05-28 10:21:21Z INFO ConfigurationStore] HasCredentials()
+[2025-05-28 10:21:21Z INFO ConfigurationStore] stored True
+[2025-05-28 10:21:21Z INFO CredentialManager] GetCredentialProvider
+[2025-05-28 10:21:21Z INFO CredentialManager] Creating type OAuth
+[2025-05-28 10:21:21Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-28 10:21:21Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file D:\ostad\Mod-2-practice\action-runner\.credentials_rsaparams
+[2025-05-28 10:21:43Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2025-05-28 10:21:43Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2025-05-28 10:21:43Z INFO ProcessInvokerWrapper] Finished process 25168 with exit code 102, and elapsed time 00:03:44.8389537.
+[2025-05-28 10:21:43Z INFO JobDispatcher] Worker finished for job f57d987a-20af-5234-8cf9-7a68aaff474c. Code: 102
+[2025-05-28 10:21:43Z INFO JobDispatcher] finish job request for job f57d987a-20af-5234-8cf9-7a68aaff474c with result: Failed
+[2025-05-28 10:21:43Z INFO Terminal] WRITE LINE: 2025-05-28 10:21:43Z: Job read-file completed with result: Failed
+[2025-05-28 10:21:43Z INFO JobDispatcher] Stop renew job request for job f57d987a-20af-5234-8cf9-7a68aaff474c.
+[2025-05-28 10:21:43Z INFO JobDispatcher] job renew has been cancelled, stop renew job f57d987a-20af-5234-8cf9-7a68aaff474c.
+[2025-05-28 10:21:43Z INFO JobNotification] Entering JobCompleted Notification
+[2025-05-28 10:21:43Z INFO JobNotification] Entering EndMonitor
+[2025-05-28 10:21:43Z INFO MessageListener] Received job status event. JobState: Online
