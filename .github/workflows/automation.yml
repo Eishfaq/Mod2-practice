@@ -15,6 +15,6 @@ jobs:
 
       - name: Read and output index.txt
         run: |
-          echo "Adding New Line" > hello.txt || true
+          echo "Adding New Line" > hello.txt
           npm init
           npm i

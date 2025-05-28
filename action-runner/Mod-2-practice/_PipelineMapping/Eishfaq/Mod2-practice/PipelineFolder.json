@@ -1,0 +1,12 @@
+﻿{
+  "repositoryName": "Eishfaq/Mod2-practice",
+  "pipelineDirectory": "Mod2-practice",
+  "workspaceDirectory": "Mod2-practice\\Mod2-practice",
+  "repositories": {
+    "Eishfaq/Mod2-practice": {
+      "repositoryPath": "Mod2-practice\\Mod2-practice",
+      "lastRunOn": "05/28/2025 16:17:58 +06:00"
+    }
+  },
+  "lastRunOn": "05/28/2025 16:17:58 +06:00"
+}
