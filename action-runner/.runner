@@ -1,0 +1,9 @@
+﻿{
+  "agentId": 3,
+  "agentName": "mod2-runner",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelinesghubeus12.actions.githubusercontent.com/NdInzrDfEVjoThypXGsundHr66eaAWjULIzS6dV5C8i534HUmL/",
+  "gitHubUrl": "https://github.com/Eishfaq/Mod2-practice",
+  "workFolder": "Mod-2-practice"
+}

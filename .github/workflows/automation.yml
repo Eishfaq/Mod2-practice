@@ -1,0 +1,20 @@
+name: Read and execure command
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  read-file:
+    runs-on: mod2-runner
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Read and output index.txt
+        run: |
+          echo "Adding New Line" > hello.txt || true
+          npm init
+          npm i
